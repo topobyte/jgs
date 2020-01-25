@@ -7,4 +7,4 @@ See LGPL.md and GPL.md for details.
 
 ## About
 
-This library provides some data structures for working geometry.
+This library provides some data structures for working with geometry.
